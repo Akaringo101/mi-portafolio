@@ -11,7 +11,7 @@ export default function Header() {
       {/* Contenido */}
       <div className="relative z-10">
         <img
-          src="/perfil.jpeg"
+          src="/mi-portafolio/perfil.jpeg"
           className="w-40 h-40 rounded-full mx-auto border-4 border-white shadow-softpink"
         />
 
