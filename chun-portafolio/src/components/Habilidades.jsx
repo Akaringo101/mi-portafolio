@@ -4,7 +4,7 @@ export default function Habilidades() {
   ];
 
   const herramientas = [
-    "Canva", "Git", "GitHub", "Visual Studio Code"
+    "Canva", "Git", "GitHub", "Visual Studio Code", "GitHub Pages"
   ];
 
   return (
@@ -34,7 +34,7 @@ export default function Habilidades() {
         {/* Herramientas y Software */}
         <div className="p-6 bg-bubble rounded-2xl shadow-kawaii">
           <h3 className="text-2xl text-sakuraDark font-semibold mb-4">
-            Herramientas y Software
+            Herramientas y Tecnologías
           </h3>
           <div className="flex flex-wrap gap-3">
             {herramientas.map((h) => (
