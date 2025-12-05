@@ -3,7 +3,7 @@ export default function Proyectos() {
     { 
       title: "Proyecto Pokémon", 
       img: "/mi-portafolio/pokemon.jpeg", 
-      desc: "Una simulación de combate simple en la terminal del famoso juego de Pokémon",
+      desc: "Una simulación de combate sencilla en la terminal, inspirada en el famoso juego de Pokémon",
       tecnologias: ["Java"],
       imgPosition: "object-center",
       repoLink: "https://github.com/Akaringo101/Proyectos"
@@ -11,7 +11,7 @@ export default function Proyectos() {
     { 
       title: "Tetris", 
       img: "/mi-portafolio/Tetris.jpg", 
-      desc: "Una versión clásica del Tetris para práctica.",
+      desc: "Una versión clásica de Tetris creada para practicar lógica, manejo de piezas y control del juego",
       tecnologias: ["Java"],
       imgPosition: "object-bottom",
       repoLink: "https://github.com/Akaringo101/Proyectos"
