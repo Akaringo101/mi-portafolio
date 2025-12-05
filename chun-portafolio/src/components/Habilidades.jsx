@@ -4,7 +4,7 @@ export default function Habilidades() {
   ];
 
   const herramientas = [
-    "Canva", "Git", "GitHub", "Visual Studio Code", "GitHub Pages"
+    "Canva", "Git", "GitHub", "Visual Studio Code"
   ];
 
   return (
